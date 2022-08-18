@@ -1,0 +1,14 @@
+a{
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #ffcb05;
+    border-color: blue;
+}
+
+nav {
+    background-color: #ef5350;
+}
+
+img {
+    height: 50px;
+    width: 140px;
+}
